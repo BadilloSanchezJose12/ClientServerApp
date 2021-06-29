@@ -1,0 +1,8 @@
+.users_container{
+    display: flex;
+    justify-content: center
+}
+
+.user{
+    margin:20px
+}
